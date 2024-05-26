@@ -66,3 +66,18 @@ C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DIST
 C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Tic Tac Toe\Server\obj\Debug\netcoreapp3.1\Server.dll
 C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Tic Tac Toe\Server\obj\Debug\netcoreapp3.1\Server.pdb
 C:\Users\Dell\OneDrive\Desktop\PAF KIET COURSES\SIXTH SEMESTER\PARALLEL AND DISTRIBUTED COMPUTING\Project\Tic Tac Toe\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.sourcelink.json
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\AAHIL ALWANI\Desktop\NP Project\tic-tac-toe\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

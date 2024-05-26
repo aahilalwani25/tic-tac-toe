@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{789BD589-1373-460F-AC80-F0887FC99DB3}|Server.csproj|c:\\users\\aahil alwani\\desktop\\np project\\tic-tac-toe\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789BD589-1373-460F-AC80-F0887FC99DB3}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789BD589-1373-460F-AC80-F0887FC99DB3}|Server.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{789BD589-1373-460F-AC80-F0887FC99DB3}|Server.csproj|solutionrelative:server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789BD589-1373-460F-AC80-F0887FC99DB3}|Server.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\videohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789BD589-1373-460F-AC80-F0887FC99DB3}|Server.csproj|solutionrelative:videohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server.csproj",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\Server.csproj",
+              "RelativeToolTip": "Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T07:08:26.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\VideoHandler.cs",
+              "RelativeDocumentMoniker": "VideoHandler.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\VideoHandler.cs",
+              "RelativeToolTip": "VideoHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:08:55.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\NP Project\\tic-tac-toe\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:52:08.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
